@@ -22,9 +22,9 @@
 //     noOfStudents:200
 // }
 
-//access a property using dot notation
+//access a property using dot notation or square bracket
 // details.schhool;
-
+details["address"](here it must be in a string)
 //delete a property
 //delete details.school
 

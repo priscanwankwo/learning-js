@@ -69,5 +69,25 @@
     // } while (i < 3);
 
     
+//for-in loop :- 
+// A way of iterating over enumerable properties and objects.it is used to create an object over and over again.
+// const object  = {
+    // or
+// const numObject  = {
+//     a: 1, 
+//     b: 2,
+//     c: 3
+//  };
+// for(const key in object) {
+    // console.log('$ {key}: ${object[key]}');
 
+// }
+// for-of loop
+// const array = ["boy", 2, 3, "life", 5, false, 7, {name:"john"}, 9, 10];
+// const array = [1,2, 3, 4, 5, 6, 7, 8, 9, 10];
+// // onst value of array){}
+// for (const value of numObject) {
+// console.log(value);
+    
+// }
 

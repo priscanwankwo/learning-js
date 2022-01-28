@@ -83,3 +83,13 @@
     // ]
     // }
     
+
+    // Create a function called 'listPersonalDetails'.
+// The body of the function should contain an object called 'myDetails'. The object should contain six(6) properties namely:
+//   name: a string
+//   age: a number
+//   phone: a string
+//   address: a string
+//   dob: a number representing your Date of Birth
+//   hobbies: an array containing a list of your hobbies
+// Now, loop through 'myDetails' object using the 'for in' loop and print each property (i.e key: value) to the browser console.Invoke the function
